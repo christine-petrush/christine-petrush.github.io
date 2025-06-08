@@ -10,6 +10,12 @@ Best practices of code review:
 
 📹 (link to code review video)
 
-## enhancement one:
+## enhancement one: software engineering and design
+Artifact used: pet check-in program designed in Java from IT 145: Foundation in Application Development
+Enhancement: take the existing Java code and port it to JavaScript / HTML to create a pet check-in/boarding website
+Skills: being able to code in multiple programming languages crating a website for front end development
+
+
+
 ## enhancement two:
 ## enhancement three:
