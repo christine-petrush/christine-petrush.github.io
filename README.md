@@ -22,9 +22,16 @@ Best practices of code review:
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
 
-<ins>Enhancement:</ins> take the existing Java code and port it to JavaScript / HTML to create a pet check-in/boarding website
+<ins>Enhancement:</ins> 
 
-<ins>Skills:</ins> being able to code in multiple programming languages crating a website for front end development 
+<ins>Skills:</ins>  
+  - adding security to the login / registration screen through the use of a hashing algorithm.
+  - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
 
 ## enhancement three: databases
+<ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
+
+<ins>Enhancement:</ins> 
+
+<ins>Skills:</ins>  
