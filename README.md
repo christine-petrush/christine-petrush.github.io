@@ -15,9 +15,13 @@ Best practices of code review:
 
 <ins>Enhancement:</ins> take the existing Java code and port it to JavaScript / HTML to create a pet check-in/boarding website
 
-<ins>Skills:</ins> being able to code in multiple programming languages crating a website for front end development 
-
-
+<ins>Skills:</ins> 
+  - being able to code in multiple programming languages creating a website for front end development
+      - JavaScript
+      - HTML
+      - CSS
+      - MongoDB
+      - JSON
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
