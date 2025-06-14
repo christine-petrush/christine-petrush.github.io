@@ -20,8 +20,6 @@ Best practices of code review:
       - JavaScript
       - HTML
       - CSS
-      - MongoDB
-      - JSON
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
