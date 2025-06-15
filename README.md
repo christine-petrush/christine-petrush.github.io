@@ -24,9 +24,12 @@ Best practices of code review:
   - CSS
 
 ## enhancement two: algorithms and data structures
-<ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
+<ins>Artifact used:</ins> 
+  - pet check-in program designed in Java from IT 145: Foundation in Application Development
 
 <ins>Enhancement:</ins> 
+  - add a login screen to the website coded in JavaScript / HTML / CSS with a password-based authentication
+  - add session management to application
 
 <ins>Skills:</ins>  
   - adding security to the login / registration screen through the use of a hashing algorithm.
@@ -34,8 +37,12 @@ Best practices of code review:
 
 
 ## enhancement three: databases
-<ins>Artifact used:</ins> pet check-in program designed in Java from IT 145: Foundation in Application Development
+<ins>Artifact used:</ins> 
+  - pet check-in program designed in Java from IT 145: Foundation in Application Development
 
 <ins>Enhancement:</ins> 
+  - add a database to my website application for storing customer information using MongoDB and JavaScript
 
-<ins>Skills:</ins>  
+<ins>Skills:</ins> 
+  - effectively manage, design, and utilize a database
+  - structure data logically and physically within a database to optimize performance, security, and scalability
