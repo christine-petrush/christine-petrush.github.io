@@ -26,6 +26,8 @@ Best practices of code review:
   - HTML
   - CSS
 
+(https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
+
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
   - pet check-in program designed in Java from IT 145: Foundation in Application Development
