@@ -1,5 +1,5 @@
 # christine-petrush.github.io
-## professional self-assessment
+## professional self-assessment:
 
 
 ## code review:  
