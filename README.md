@@ -26,7 +26,7 @@ Best practices of code review:
   - HTML
   - CSS
 
-git remote set-url origin https://github.com/christine-petrush/christine-petrush.github.io/blob/0a10e64ae0b1db10c32930ea4ad18623cf532a59/Software%20Engineering%20and%20Design%20Narrative.docx/<christine-petrush>/<Software Engineerin/Design Narrative>.git
+git remote set-url origin https://github.com/christine-petrush/christine-petrush.github.io/blob/0a10e64ae0b1db10c32930ea4ad18623cf532a59/Software%20Engineering%20and%20Design%20Narrative.docx<christine-petrush>/<Software Engineerin/Design Narrative>.git
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
