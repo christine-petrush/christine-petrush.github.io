@@ -53,3 +53,5 @@ Best practices of code review:
 <ins>Skills:</ins> 
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
+
+[Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
