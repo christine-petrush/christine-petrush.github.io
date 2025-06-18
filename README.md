@@ -40,6 +40,8 @@ Best practices of code review:
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
+[Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
+
 
 ## enhancement three: databases
 <ins>Artifact used:</ins> 
