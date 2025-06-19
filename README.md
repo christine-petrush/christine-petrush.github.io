@@ -11,7 +11,7 @@ Best practices of code review:
 - use checklists
 - establish a process for fixing defects found
 
-📹 (link to code review video)
+📹 [code review video](https://youtu.be/rmeoTaB6OqQ)
 
 ## enhancement one: software engineering and design
 <ins>Artifact used:</ins> 
