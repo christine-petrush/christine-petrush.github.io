@@ -26,7 +26,7 @@ Best practices of code review:
   - HTML
   - CSS
 
-[Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
+:memo:[Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
