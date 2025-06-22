@@ -42,7 +42,7 @@ Best practices of code review:
   - HTML
   - CSS
 
-:memo: [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
+📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
 ## enhancement two: algorithms and data structures
 <ins>Artifact used:</ins> 
@@ -56,7 +56,7 @@ Best practices of code review:
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
-:memo: [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
+📝 [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 
 ## enhancement three: databases
@@ -70,7 +70,7 @@ Best practices of code review:
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
 
-:memo: [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
+📝 [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
 
 ## course outcomes:
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
