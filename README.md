@@ -44,7 +44,7 @@ Course Outcomes: #2
   - HTML
   - CSS
  
-  Course Outcomes: #4, 5, 1
+<ins>Course Outcomes:</ins> #4, 5, 1
 
 📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
@@ -60,7 +60,7 @@ Course Outcomes: #2
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
-Course Outcomes: #3, 1
+<ins>Course Outcomes:</ins> #3, 1
 
 📝 [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
@@ -76,7 +76,7 @@ Course Outcomes: #3, 1
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
 
-Course Outcomes: #5, 3
+<ins>Course Outcomes:</ins> #5, 3
 
 📝 [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
 
