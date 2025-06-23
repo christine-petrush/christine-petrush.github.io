@@ -27,6 +27,8 @@ Best practices of code review:
 - use checklists
 - establish a process for fixing defects found
 
+Course Outcomes: #2
+
 📹 [code review video](https://youtu.be/rmeoTaB6OqQ)
 
 ## enhancement one: software engineering and design
@@ -41,6 +43,8 @@ Best practices of code review:
   - JavaScript
   - HTML
   - CSS
+ 
+  Course Outcomes: #4, 5, 1
 
 📝 [Software Engineering and Design Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Software%20Engineering%20and%20Design%20Narrative.docx)
 
@@ -56,6 +60,8 @@ Best practices of code review:
   - adding security to the login / registration screen through the use of a hashing algorithm.
   - ensuring that the user data, preferences, and session-related information are securely stored and managed through session management.
 
+Course Outcomes: #3, 1
+
 📝 [Algorithms and Data Structures Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 
@@ -69,6 +75,8 @@ Best practices of code review:
 <ins>Skills:</ins> 
   - effectively manage, design, and utilize a database
   - structure data logically and physically within a database to optimize performance, security, and scalability
+
+Course Outcomes: #5, 3
 
 📝 [Databases Narrative](https://github.com/christine-petrush/christine-petrush.github.io/blob/main/Databases%20Narrative.docx)
 
